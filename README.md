@@ -35,8 +35,13 @@ The dashboard highlights **passenger growth trends**, **seasonal patterns**, and
 
 ---
 
-## 📸 Dashboard Preview
-*(Insert screenshot here once uploaded)*  
+## 📸 Dashboard Preview 
+
+![Passengers by Year](https://github.com/user-attachments/assets/22c1bd0b-ec43-4da4-9a2c-e730f46727ee)  
+![Passengers by Month](https://github.com/user-attachments/assets/e1dadf26-da82-4868-8a5c-720612063f3f)  
+![Yearly Growth](https://github.com/user-attachments/assets/7f40a451-10c7-448f-9434-9ba8b7a7e65f)  
+
+
 
 ---
 
